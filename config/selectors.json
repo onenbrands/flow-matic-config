@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "promptBox": [
+    "div[role=\"textbox\"]",
+    "[contenteditable=\"true\"]",
+    "textarea",
+    "p[contenteditable]"
+  ],
+  "submitIconText": ["arrow_forward", "send"],
+  "imageUpload": [
+    "[aria-label*=\"upload\" i]",
+    "[aria-label*=\"Add image\" i]",
+    "[aria-label*=\"Görsel ekle\" i]",
+    "[title*=\"upload\" i]",
+    "button[aria-label=\"Add\"]",
+    "button[aria-label=\"Ekle\"]"
+  ],
+  "keyframeStart": ["başlat", "start", "başlangıç", "frame start", "ilk kare"],
+  "keyframeEnd": ["bitiş", "end", "son kare", "frame end", "finish"],
+  "downloadBtn": ["download", "indir", "save", "kaydet", "↓"],
+  "attachPlus": ["+", "add", "ekle"],
+  "attachMenuUpload": ["Upload image", "Görsel yükle", "Image", "Görsel", "Photo"],
+  "subpages": ["/trash", "/characters", "/scenes", "/assets", "/videos", "/images"],
+  "mediaSkip": ["favicon", "avatar", "logo", "profile", "data:", ".svg"]
+}
